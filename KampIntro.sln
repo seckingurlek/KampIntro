@@ -29,7 +29,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Oyun", "Oyun\Oyun.csproj", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Game", "Game\Game.csproj", "{92CB0B59-7582-4BC9-94F0-EEEA914D4FE2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOOP3", "OOOP3\OOOP3.csproj", "{66C3AEE5-F9B1-4FC3-A296-168CD28B0B51}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOOP3", "OOOP3\OOOP3.csproj", "{66C3AEE5-F9B1-4FC3-A296-168CD28B0B51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceAbstractDemo", "InterfaceAbstractDemo\InterfaceAbstractDemo.csproj", "{A6B7F87D-23CA-4355-A921-03E115CD08FA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +95,10 @@ Global
 		{66C3AEE5-F9B1-4FC3-A296-168CD28B0B51}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{66C3AEE5-F9B1-4FC3-A296-168CD28B0B51}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{66C3AEE5-F9B1-4FC3-A296-168CD28B0B51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6B7F87D-23CA-4355-A921-03E115CD08FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6B7F87D-23CA-4355-A921-03E115CD08FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6B7F87D-23CA-4355-A921-03E115CD08FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6B7F87D-23CA-4355-A921-03E115CD08FA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
